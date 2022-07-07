@@ -9,7 +9,7 @@
     "eslint": "^5.4.0",
     "event-stream": "3.3.4",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
